@@ -9,14 +9,10 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <p>Version 1.0</p>
+        <h1>Vedant React App Linux</h1>
+        <p>Web App Name: ReactAppLinuxVP</p>
+        <p>Resourse Group Name: ReactAppLinuxRG</p>
       </header>
     </div>
   );
